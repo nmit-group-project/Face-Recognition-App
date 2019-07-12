@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "81974377476",
+    "firebase_url": "https://attendance-3e16a.firebaseio.com",
+    "project_id": "attendance-3e16a",
+    "storage_bucket": "attendance-3e16a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81974377476:android:a49915e68eaed8cc",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.examples.classification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81974377476-n7du2algmerfr6vn3pefsts90ug97j7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.tensorflow.lite.examples.classification",
+            "certificate_hash": "d9b3f62f1157f98ab534f2cabd4d7c099a819e84"
+          }
+        },
+        {
+          "client_id": "81974377476-m8ki7h6netun80lunkdd6mip9c3ldj6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqfHywRpGhv4vO8kdGM7-9sSz7KBJoAGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81974377476-m8ki7h6netun80lunkdd6mip9c3ldj6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
